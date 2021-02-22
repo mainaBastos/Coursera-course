@@ -1,0 +1,11 @@
+<!DOCTYPE html >
+<html >
+<head >
+<meta charset="utf-8">
+<title > "Testando como funciona as coisas" </title>
+</head >
+<body >
+<p > "Qual a diferença entre um paragrafo como filho ou só abaixo?" </p >
+  <p > "Eu sou um filho" </p >
+</body >
+</html >
